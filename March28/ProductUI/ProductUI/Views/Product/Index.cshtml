@@ -1,0 +1,29 @@
+﻿@model List<ProductUI.Models.Product>
+
+<h2>Products</h2>
+
+<a href="/Product/Create">Add Product</a>
+
+<table border="1">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Category</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+            <td>@item.Category</td>
+            <td>
+                <a href="/Product/Edit/@item.Id">Edit</a> |
+                <a href="/Product/Delete/@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
