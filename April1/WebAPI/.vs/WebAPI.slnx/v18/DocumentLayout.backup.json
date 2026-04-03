@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anant\\OneDrive\\Desktop\\vedant_assignment_3\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\users\\anant\\onedrive\\desktop\\vedant_assignment_3\\webapi\\webapi\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\users\\anant\\onedrive\\desktop\\vedant_assignment_3\\webapi\\webapi\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\users\\anant\\onedrive\\desktop\\vedant_assignment_3\\webapi\\webapi\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\users\\anant\\onedrive\\desktop\\vedant_assignment_3\\webapi\\webapi\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\users\\anant\\onedrive\\desktop\\vedant_assignment_3\\webapi\\webapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\users\\anant\\onedrive\\desktop\\vedant_assignment_3\\webapi\\webapi\\migrations\\20260326065554_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\migrations\\20260326065554_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\anant\\OneDrive\\Desktop\\vedant_assignment_3\\WebAPI\\WebAPI\\IEmployee.cs",
+              "RelativeDocumentMoniker": "WebAPI\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\anant\\OneDrive\\Desktop\\vedant_assignment_3\\WebAPI\\WebAPI\\IEmployee.cs",
+              "RelativeToolTip": "WebAPI\\IEmployee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:39:46.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\anant\\OneDrive\\Desktop\\vedant_assignment_3\\WebAPI\\WebAPI\\Models\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\anant\\OneDrive\\Desktop\\vedant_assignment_3\\WebAPI\\WebAPI\\Models\\EmployeeDto.cs",
+              "RelativeToolTip": "WebAPI\\Models\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:38:26.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\anant\\OneDrive\\Desktop\\vedant_assignment_3\\WebAPI\\WebAPI\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\EmpController.cs",
+              "ToolTip": "C:\\Users\\anant\\OneDrive\\Desktop\\vedant_assignment_3\\WebAPI\\WebAPI\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA6wCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:35:54.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\anant\\OneDrive\\Desktop\\vedant_assignment_3\\WebAPI\\WebAPI\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\anant\\OneDrive\\Desktop\\vedant_assignment_3\\WebAPI\\WebAPI\\EmployeeService.cs",
+              "RelativeToolTip": "WebAPI\\EmployeeService.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:34:45.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anant\\OneDrive\\Desktop\\vedant_assignment_3\\WebAPI\\WebAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAPI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\anant\\OneDrive\\Desktop\\vedant_assignment_3\\WebAPI\\WebAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAPI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T09:20:04.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260326065554_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\anant\\OneDrive\\Desktop\\vedant_assignment_3\\WebAPI\\WebAPI\\Migrations\\20260326065554_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Migrations\\20260326065554_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\anant\\OneDrive\\Desktop\\vedant_assignment_3\\WebAPI\\WebAPI\\Migrations\\20260326065554_InitialCreate.cs",
+              "RelativeToolTip": "WebAPI\\Migrations\\20260326065554_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:55:54.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
