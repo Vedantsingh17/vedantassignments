@@ -1,0 +1,9 @@
+C:\vedantassignments\April7\ProductAPI\ProductAPI\obj\Debug\net8.0\ProductAPI.csproj.AssemblyReference.cache
+C:\vedantassignments\April7\ProductAPI\ProductAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\vedantassignments\April7\ProductAPI\ProductAPI\obj\Debug\net8.0\ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\vedantassignments\April7\ProductAPI\ProductAPI\obj\Debug\net8.0\ProductAPI.AssemblyInfoInputs.cache
+C:\vedantassignments\April7\ProductAPI\ProductAPI\obj\Debug\net8.0\ProductAPI.AssemblyInfo.cs
+C:\vedantassignments\April7\ProductAPI\ProductAPI\obj\Debug\net8.0\ProductAPI.csproj.CoreCompileInputs.cache
+C:\vedantassignments\April7\ProductAPI\ProductAPI\obj\Debug\net8.0\ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\vedantassignments\April7\ProductAPI\ProductAPI\obj\Debug\net8.0\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\vedantassignments\April7\ProductAPI\ProductAPI\obj\Debug\net8.0\ProductAPI.sourcelink.json

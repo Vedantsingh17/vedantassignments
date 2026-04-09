@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vedantassignments\\April7\\ProductAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\vedantassignments\\april7\\productapi\\productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\vedantassignments\\april7\\productapi\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\vedantassignments\\april7\\productapi\\productapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\vedantassignments\\april7\\productapi\\productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\vedantassignments\\april7\\productapi\\productapi\\servise\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\servise\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\vedantassignments\\april7\\productapi\\productapi\\servise\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\servise\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\vedantassignments\\april7\\productapi\\productapi\\migrations\\20260407061508_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\migrations\\20260407061508_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\vedantassignments\\april7\\productapi\\productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|c:\\vedantassignments\\april7\\productapi\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E962D6F7-FF83-9B7F-B7BE-F24219127C2F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\vedantassignments\\April7\\ProductAPI\\ProductAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\vedantassignments\\April7\\ProductAPI\\ProductAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProductAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:07:15.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\vedantassignments\\April7\\ProductAPI\\ProductAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\vedantassignments\\April7\\ProductAPI\\ProductAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:59:12.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\vedantassignments\\April7\\ProductAPI\\ProductAPI\\Servise\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Servise\\ProductService.cs",
+              "ToolTip": "C:\\vedantassignments\\April7\\ProductAPI\\ProductAPI\\Servise\\ProductService.cs",
+              "RelativeToolTip": "ProductAPI\\Servise\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:57:21.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\vedantassignments\\April7\\ProductAPI\\ProductAPI\\Servise\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Servise\\IProductService.cs",
+              "ToolTip": "C:\\vedantassignments\\April7\\ProductAPI\\ProductAPI\\Servise\\IProductService.cs",
+              "RelativeToolTip": "ProductAPI\\Servise\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:40:27.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductAPI.csproj",
+              "DocumentMoniker": "C:\\vedantassignments\\April7\\ProductAPI\\ProductAPI\\ProductAPI.csproj",
+              "RelativeDocumentMoniker": "ProductAPI\\ProductAPI.csproj",
+              "ToolTip": "C:\\vedantassignments\\April7\\ProductAPI\\ProductAPI\\ProductAPI.csproj",
+              "RelativeToolTip": "ProductAPI\\ProductAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-07T06:40:01.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260407061508_initialcreate.cs",
+              "DocumentMoniker": "C:\\vedantassignments\\April7\\ProductAPI\\ProductAPI\\Migrations\\20260407061508_initialcreate.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Migrations\\20260407061508_initialcreate.cs",
+              "ToolTip": "C:\\vedantassignments\\April7\\ProductAPI\\ProductAPI\\Migrations\\20260407061508_initialcreate.cs",
+              "RelativeToolTip": "ProductAPI\\Migrations\\20260407061508_initialcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:15:08.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vedantassignments\\April7\\ProductAPI\\ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Program.cs",
+              "ToolTip": "C:\\vedantassignments\\April7\\ProductAPI\\ProductAPI\\Program.cs",
+              "RelativeToolTip": "ProductAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:11:20.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\vedantassignments\\April7\\ProductAPI\\ProductAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\vedantassignments\\April7\\ProductAPI\\ProductAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ProductAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:04:04.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\vedantassignments\\April7\\ProductAPI\\ProductAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductAPI\\appsettings.json",
+              "ToolTip": "C:\\vedantassignments\\April7\\ProductAPI\\ProductAPI\\appsettings.json",
+              "RelativeToolTip": "ProductAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-07T05:54:28.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
